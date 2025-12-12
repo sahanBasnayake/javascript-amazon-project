@@ -1,5 +1,6 @@
-import {cart} from '../data/cart.js';
-//Need Live Server to run the modules. Otherwise code not running in the browser.
+import {cart} from '../data/cart.js';  //Need Live Server to run the modules. Otherwise code not running in the browser.
+import {products} from '../data/products.js';
+
 
 
 let productsHtml = '';
